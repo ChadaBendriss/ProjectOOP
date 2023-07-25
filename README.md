@@ -1,4 +1,4 @@
-# ProjetOOP
+# ProjectOOP
 
 In the future, intelligent vehicles will be equipped with various sensors, including LiDAR (Light Detection And Ranging), to autonomously navigate by capturing information about their surroundings. LiDAR uses laser beams to scan the scene in front, generating a 3D point cloud that represents the scene's structure.
 
