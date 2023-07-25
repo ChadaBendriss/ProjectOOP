@@ -7,10 +7,10 @@ In a comprehensive assignment, an algorithm is needed to detect dominant planes 
 Three point clouds (PointCloud1.xyz, PointCloud2.xyz, and PointCloud3.xyz) are given as input, and the task is to find the three most dominant planes for each of them. The output should include three xyz files for each point cloud, containing the points belonging to the dominant planes, and an additional xyz file with the original cloud minus the points belonging to the dominant planes. The output files are named by appending pX to the original point cloud filename, where X represents the plane number.
 
 For example, the output files for PointCloud1 should be:
-• PointCloud1_p1.xyz
-• PointCloud1_p2.xyz
-• PointCloud1_p3.xyz
-• PointCloud1_p0.xyz (original cloud without the points of the dominant planes)
+- PointCloud1_p1.xyz
+- PointCloud1_p2.xyz
+- PointCloud1_p3.xyz
+- PointCloud1_p0.xyz (original cloud without the points of the dominant planes)
 
 Note that xyz files can be visualized in a 3D environment using two methods: 
 1. The first option is an online tool: https://imagetostl.com/view-xyz-online. By uploading the attached .xyz file, you can easily visualize it.
