@@ -16,11 +16,15 @@ Note that xyz files can be visualized in a 3D environment using two methods:
 1. The first option is an online tool: https://imagetostl.com/view-xyz-online. By uploading the attached .xyz file, you can easily visualize it.
 2. Another tool, called Meshlab, offers more advanced features but remains highly accessible for installation and usage. You can download it for various operating systems from https://www.meshlab.net/#download.
 
+
 <img width="664" alt="image" src="https://github.com/ChadaBendriss/ProjetOOP/assets/113207156/4ff3b012-a2c6-41ba-be55-7156e9dd9a50">
+
 
 <img width="662" alt="image" src="https://github.com/ChadaBendriss/ProjetOOP/assets/113207156/1e0d1c1f-bb74-487c-a858-58b25a5f42b1">
 
+
 <img width="659" alt="image" src="https://github.com/ChadaBendriss/ProjetOOP/assets/113207156/339ce155-234d-4011-aacc-0bddfdfa7188">
+
 
 <img width="656" alt="image" src="https://github.com/ChadaBendriss/ProjetOOP/assets/113207156/065a0f35-f68e-41d8-a295-d61caa4b0150">
 
