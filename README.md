@@ -4,7 +4,7 @@
 
 In the future, intelligent vehicles will be equipped with various sensors, including LiDAR (Light Detection And Ranging), to autonomously navigate by capturing information about their surroundings. LiDAR uses laser beams to scan the scene in front, generating a 3D point cloud that represents the scene's structure.
 
-An algorithm is needed to detect dominant planes within a cloud of 3D points. The dominant plane is the one containing the largest number of points within a certain distance (ε) from the plane. The RANSAC algorithm will be used for this purpose, which is an iterative method to identify geometric entities (or models) from data containing outliers.
+This project is using the RANSAC algorithm to detect dominant planes within a cloud of 3D points. The dominant plane is the one containing the largest number of points within a certain distance (ε) from the plane. 
 
 
 Three point clouds (PointCloud1.xyz, PointCloud2.xyz, and PointCloud3.xyz) are given as input, and the task is to find the three most dominant planes for each of them. The output should include three xyz files for each point cloud, containing the points belonging to the dominant planes, and an additional xyz file with the original cloud minus the points belonging to the dominant planes. The output files are named by appending pX to the original point cloud filename, where X represents the plane number.
